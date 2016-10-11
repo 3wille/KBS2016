@@ -3,7 +3,7 @@ Freddy 3Wille
 
 
 
-## Hamburg? Wo ist eigentlich?
+## Hamburg? Wo ist das eigentlich?
 
 
 ![milkyway](milkyway.jpg)
@@ -13,7 +13,7 @@ Freddy 3Wille
 # Fakten, Fakten, Fakten
 
 
-mehr Brücken als Vendedig und Rotterdam zusammen(2500)
+mehr Brücken als Venedig und Rotterdam zusammen (2500)
 
 
 Altona benannt nach Kneipe, die "all to nah" an der Stadtgrenze lag
@@ -24,7 +24,10 @@ Bhf Altona ältester Kopfbahnhof
 Note: meiste Fernbahnhöfe Deutschlands
 
 
-Ältestes Gebäude steht auf der Insel Neuwerk(Kartenausschnitt?)
+Ältestes Gebäude steht auf der Insel Neuwerk
+
+
+![neuwerk](neuwerk.png)
 
 
 Hagenbecks Tierpark erster Tierpark der Welt
@@ -34,7 +37,7 @@ Note: Tierpark =?= Zoo ohne Zäune
 Davidwache: kleinstes Revier Deutschlands
 
 
-Zeitungsverlage aus Hamburg machen >50% des Deutschenumsatz
+Zeitungsverlage aus Hamburg machen >50% des Umsatzes in Deutschland
 
 
 Geburtsort von Angela Merkel
@@ -49,7 +52,7 @@ Mehr Millionäre als in jeder anderen deutschen Stadt
 Vorletzter Platz bei Pisa trotz höchsten pro-Kopf Ausgaben
 
 
-Erstes Brennstoffzellen Personenschiff heißt "Alsterwasser"
+Erstes Brennstoffzellen-Personenschiff heißt "Alsterwasser"
 
 
 ![alsterwasser](astra_alster.png)
@@ -57,7 +60,8 @@ Erstes Brennstoffzellen Personenschiff heißt "Alsterwasser"
 
 In Wedel werden einlaufende Schiffe mit Nationalhymne und Flagge begrüßt
 Note: Schiffsbegrüßungsanlage
-Hymnen werden von Kasetten abgespielt
+Hymnen werden von Kassetten abgespielt
+eine Begrüßung, eine Abschied
 
 
 7x größer als Paris und doppelt so groß wie London
@@ -137,9 +141,6 @@ Kneipen
 
 
 Discos
-
-
-Shoppen
 
 
 Hotels
