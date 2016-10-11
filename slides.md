@@ -3,6 +3,13 @@ Freddy 3Wille
 
 
 
+## Hamburg? Wo ist eigentlich?
+
+
+![milkyway](milkyway.jpg)
+
+
+
 # Fakten, Fakten, Fakten
 
 
@@ -30,7 +37,7 @@ Davidwache: kleinstes Revier Deutschlands
 Zeitungsverlage aus Hamburg machen >50% des Deutschenumsatz
 
 
-Merkel ist hier geboren
+Geburtsort von Angela Merkel
 
 
 in 2008 wurde Hamburger Innensenator zum "Abschiebeminister" erklärt
@@ -49,12 +56,97 @@ Erstes Brennstoffzellen Personenschiff heißt "Alsterwasser"
 
 
 In Wedel werden einlaufende Schiffe mit Nationalhymne und Flagge begrüßt
+Note: Schiffsbegrüßungsanlage
+Hymnen werden von Kasetten abgespielt
 
 
 7x größer als Paris und doppelt so groß wie London
 
 
+eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatten
+
+
+![pauli](pauli.png)
 
 
 
-Die Herbertstraße dürfen außer den dort arbeitenden Prostituierten nur Männer betreten.
+# Schnack
+
+
+## Moin
+
+
+## Tschüss
+
+
+## Hummel hummel
+
+
+## Mors mors
+
+
+
+## Wahrzeichen
+
+
+## Michel
+
+
+![michel](michel.jpg)
+
+
+## Elbphilharmonie
+
+
+![elbphil](elbphil.gif)
+
+
+## Hafen
+
+
+![hafen](hafen.jpg)
+
+
+
+# mmmmm Lecker
+
+
+![franz](franz.jpg)
+
+
+![fritz](fritz.png)
+
+
+![gruetze](rote-gruetze.jpg)
+
+
+![fisch](fisch.jpg)
+
+
+
+# Kiez
+
+
+![beatles](beatles.jpg)
+
+
+![millerntor](Millerntor.jpg)
+
+
+Kneipen
+
+
+Discos
+
+
+Shoppen
+
+
+Hotels
+
+
+Essen
+
+
+Bordelle
+Note: Die Herbertstraße dürfen außer den dort arbeitenden Prostituierten nur Männer betreten.
