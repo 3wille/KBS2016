@@ -1,5 +1,7 @@
-## irgendwas mit Franzbrötchen
+## irgendwas mit ~~Franz~~Fischbrötchen
 Freddy 3Wille
+
+![titel](title.jpg)
 
 
 
@@ -74,22 +76,6 @@ eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatt
 
 
 
-# Schnack
-
-
-## Moin
-
-
-## Tschüss
-
-
-## Hummel hummel
-
-
-## Mors mors
-
-
-
 ## Wahrzeichen
 
 
@@ -111,6 +97,33 @@ eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatt
 ![hafen](hafen.jpg)
 
 
+![koehlbrandbruecke](koehlbrandbruecke.jpg)
+
+
+![koehlbrandbruecke](koehlbrandbruecke_stau.jpg.png)
+
+
+## Reeperbahn
+
+
+![beatles](beatles.jpg)
+
+
+![millerntor](Millerntor.jpg)
+
+
+## Sternschanze
+
+
+![schanze](schanze.jpg)
+
+
+![schanze2](schanze2.jpg)
+
+
+![schanze3](schanze3.jpeg)
+
+
 
 # mmmmm Lecker
 
@@ -127,27 +140,20 @@ eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatt
 ![fisch](fisch.jpg)
 
 
-
-# Kiez
-
-
-![beatles](beatles.jpg)
+![fischbroetchen](fischbroetchen.jpg)
 
 
-![millerntor](Millerntor.jpg)
+
+# Schnack
 
 
-Kneipen
+## Moin
 
 
-Discos
+## Tschüss
 
 
-Hotels
+## Hummel hummel
 
 
-Essen
-
-
-Bordelle
-Note: Die Herbertstraße dürfen außer den dort arbeitenden Prostituierten nur Männer betreten.
+## Mors mors
