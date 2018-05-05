@@ -1,75 +1,68 @@
-## irgendwas mit ~~Franz~~Fischbrötchen
-Freddy 3Wille
+## What the hell is a Franzbrötchen?
+Frederik Wille
 
 ![titel](title.jpg)
 
 
 
-## Hamburg? Wo ist das eigentlich?
+## Hamburg? How to get there?
 
 
 ![milkyway](milkyway.jpg)
 
 
 
-# Fakten, Fakten, Fakten
+# Facts, Facts, Facts
 
 
-mehr Brücken als Venedig und Rotterdam zusammen (2500)
+more bridges than (Venice + Rotterdam) (2500)
 
 
-Altona benannt nach Kneipe, die "all to nah" an der Stadtgrenze lag
+Altona called after pub, which is "all to nah"(way too close) to city border
 Note: Außerhalb gabs keine Steuern
 
 
-Bhf Altona ältester Kopfbahnhof
+Altona oldest railhead/terminal station in Germany
 Note: meiste Fernbahnhöfe Deutschlands
 
 
-Ältestes Gebäude steht auf der Insel Neuwerk
+Oldest standing building is on "Neuwerk"
 
 
 ![neuwerk](neuwerk.png)
 
 
-Hagenbecks Tierpark erster Tierpark der Welt
-Note: Tierpark =?= Zoo ohne Zäune
+"Davidwache": smallest precinct in Germany
 
 
-Davidwache: kleinstes Revier Deutschlands
+Newspaper generate 50% of Germany-wide revenue
 
 
-Zeitungsverlage aus Hamburg machen >50% des Umsatzes in Deutschland
+Birthplace of Angela Merkel
 
 
-Geburtsort von Angela Merkel
+Most millionaires in Germany
 
 
-in 2008 wurde Hamburger Innensenator zum "Abschiebeminister" erklärt
+Second to last place in education test with highest expense per capita
 
 
-Mehr Millionäre als in jeder anderen deutschen Stadt
-
-
-Vorletzter Platz bei Pisa trotz höchsten pro-Kopf Ausgaben
-
-
-Erstes Brennstoffzellen-Personenschiff heißt "Alsterwasser"
+First wold-wide fuel cell boat called "Alsterwasser"
 
 
 ![alsterwasser](astra_alster.png)
 
 
-In Wedel werden einlaufende Schiffe mit Nationalhymne und Flagge begrüßt
+Incoming ships are greeted with national anthem and national flag
 Note: Schiffsbegrüßungsanlage
 Hymnen werden von Kassetten abgespielt
 eine Begrüßung, eine Abschied
 
 
-7x größer als Paris und doppelt so groß wie London
+Area: 7x Paris and 2x London
 
 
-eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatten
+1 of 6 German Cities with 2 soccer clubs in "Bundesliga"
 
 
 ![pauli](pauli.png)
@@ -91,7 +84,7 @@ eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatt
 ![elbphil](elbphil.gif)
 
 
-## Hafen
+## Harbour
 
 
 ![hafen](hafen.jpg)
@@ -125,7 +118,7 @@ eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatt
 
 
 
-# mmmmm Lecker
+# mmmmm yummy
 
 
 ![franz](franz.jpg)
@@ -144,7 +137,7 @@ eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatt
 
 
 
-# Schnack
+# local Language
 
 
 ## Moin
