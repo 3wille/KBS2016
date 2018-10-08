@@ -1,68 +1,75 @@
-## What the hell is a Franzbrötchen?
-Frederik Wille
+## irgendwas mit ~~Franz~~Fischbrötchen
+Freddy 3Wille
 
 ![titel](title.jpg)
 
 
 
-## Hamburg? How to get there?
+## Hamburg? Wo ist das eigentlich?
 
 
 ![milkyway](milkyway.jpg)
 
 
 
-# Facts, Facts, Facts
+# Fakten, Fakten, Fakten
 
 
-more bridges than (Venice + Rotterdam) (2500)
+mehr Brücken als Venedig und Rotterdam zusammen (2500)
 
 
-Altona called after pub, which is "all to nah"(way too close) to city border
+Altona benannt nach Kneipe, die "all to nah" an der Stadtgrenze lag
 Note: Außerhalb gabs keine Steuern
 
 
-Altona oldest railhead/terminal station in Germany
+Bhf Altona ältester Kopfbahnhof
 Note: meiste Fernbahnhöfe Deutschlands
 
 
-Oldest standing building is on "Neuwerk"
+Ältestes Gebäude steht auf der Insel Neuwerk
 
 
 ![neuwerk](neuwerk.png)
 
 
-"Davidwache": smallest precinct in Germany
+Hagenbecks Tierpark erster Tierpark der Welt
+Note: Tierpark =?= Zoo ohne Zäune
 
 
-Newspaper generate 50% of Germany-wide revenue
+Davidwache: kleinstes Revier Deutschlands
 
 
-Birthplace of Angela Merkel
+Zeitungsverlage aus Hamburg machen >50% des Umsatzes in Deutschland
 
 
-Most millionaires in Germany
+Geburtsort von Angela Merkel
 
 
-Second to last place in education test with highest expense per capita
+in 2008 wurde Hamburger Innensenator zum "Abschiebeminister" erklärt
 
 
-First wold-wide fuel cell boat called "Alsterwasser"
+Mehr Millionäre als in jeder anderen deutschen Stadt
+
+
+Vorletzter Platz bei Pisa trotz höchsten pro-Kopf Ausgaben
+
+
+Erstes Brennstoffzellen-Personenschiff heißt "Alsterwasser"
 
 
 ![alsterwasser](astra_alster.png)
 
 
-Incoming ships are greeted with national anthem and national flag
+In Wedel werden einlaufende Schiffe mit Nationalhymne und Flagge begrüßt
 Note: Schiffsbegrüßungsanlage
 Hymnen werden von Kassetten abgespielt
 eine Begrüßung, eine Abschied
 
 
-Area: 7x Paris and 2x London
+7x größer als Paris und doppelt so groß wie London
 
 
-1 of 6 German Cities with 2 soccer clubs in "Bundesliga"
+eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatten
 
 
 ![pauli](pauli.png)
@@ -84,7 +91,7 @@ Area: 7x Paris and 2x London
 ![elbphil](elbphil.gif)
 
 
-## Harbour
+## Hafen
 
 
 ![hafen](hafen.jpg)
@@ -118,7 +125,7 @@ Area: 7x Paris and 2x London
 
 
 
-# mmmmm yummy
+# mmmmm Lecker
 
 
 ![franz](franz.jpg)
@@ -137,7 +144,7 @@ Area: 7x Paris and 2x London
 
 
 
-# local Language
+# Schnack
 
 
 ## Moin
