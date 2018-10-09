@@ -66,10 +66,13 @@ Hymnen werden von Kassetten abgespielt
 eine Begrüßung, eine Abschied
 
 
-7x größer als Paris und doppelt so groß wie London
+Metropole 7x größer als Paris und doppelt so groß wie London
 
 
 eine von 6 Städten die 2 Fußballvereine gleichzeitig in der 1. Bundesliga hatten
+
+
+![derbyg](derby.jpg)
 
 
 ![pauli](pauli.png)
